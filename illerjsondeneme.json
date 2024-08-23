@@ -1,0 +1,813 @@
+[
+{
+    "id": 76,
+    "name": "İstanbul",
+    "photo": "https://st.depositphotos.com/1026649/2682/i/450/depositphotos_26820293-stock-photo-the-historical-center-of-istanbul.jpg",
+    "description": "İstanbul, Marmara Bölgesi'nde yer alır ve Türkiye'nin en büyük şehridir. Şehir, tarihi ve kültürel zenginlikleri ile bilinir. İstanbul Boğazı, Sultanahmet Camii ve Topkapı Sarayı gibi önemli yapılar bu şehirde yer alır.",
+    "location": {
+      "latitude": 41.0082,
+      "longitude": 28.9784
+    }
+  },
+  {
+    "id": 77,
+    "name": "İzmir",
+    "photo": "https://cdnp.flypgs.com/files/Sehirler-long-tail/izmir/izmir-gezilecek-yerler-saat-kulesi.jpg",
+    "description": "İzmir, Ege Bölgesi'nde yer alır ve Türkiye'nin üçüncü büyük şehridir. Şehir, özellikle tarihi Efes Antik Kenti ve doğal plajları ile tanınır.",
+    "location": {
+      "latitude": 38.4192,
+      "longitude": 27.1287
+    }
+  },
+  {
+    "id": 1,
+    "name": "Adana",
+    "photo": "https://media.istockphoto.com/id/1164889653/tr/fotoğraf/seyhan-nehri-ve-sabancı-camii-adana-türkiye.jpg?s=612x612&w=0&k=20&c=z4Z15JOradJO-i4UToknh4839y2hHLuIyTNxeZkFDFE=",
+    "description": "Adana, Akdeniz Bölgesi'nin önemli bir sanayi ve tarım merkezidir. Tarihi ve kültürel zenginlikleriyle bilinen şehir, Seyhan Nehri boyunca uzanır. Adana Kebabı ve portakal bahçeleriyle ünlüdür. Şehirde ayrıca Seyhan Barajı ve Merkez Park gibi önemli yerler bulunmaktadır.",
+    "location": {
+      "latitude": 37.0016,
+      "longitude": 35.3289
+    }
+  },
+  {
+    "id": 2,
+    "name": "Adıyaman",
+    "photo": "https://example.com/adiyaman.jpg",
+    "description": "Adıyaman, Güneydoğu Anadolu Bölgesi'nde yer alır ve Nemrut Dağı ile ünlüdür. Tarihi Kommagene Krallığı'nın izlerini taşıyan şehir, zengin bir kültürel mirasa sahiptir. Ayrıca doğal güzellikleriyle de dikkat çeker. Şehir, Nemrut Dağı'nın zirvesindeki dev heykelleriyle tanınır.",
+    "location": {
+      "latitude": 37.7649,
+      "longitude": 38.2784
+    }
+  },
+  {
+    "id": 3,
+    "name": "Afyonkarahisar",
+    "photo": "https://example.com/afyonkarahisar.jpg",
+    "description": "Afyonkarahisar, İç Anadolu Bölgesi'nde yer alır ve termal kaynaklarıyla ünlüdür. Şehir, tarihi kaleleri, camileri ve geleneksel mimarisiyle dikkat çeker. Afyon lokumu ve sucuğu da bu bölgeden çıkar. Şehir, ayrıca tarihi Afyonkarahisar Kalesi ile tanınır.",
+    "location": {
+      "latitude": 38.7568,
+      "longitude": 30.5434
+    }
+  },
+  {
+    "id": 4,
+    "name": "Ağrı",
+    "photo": "https://example.com/agri.jpg",
+    "description": "Ağrı, Doğu Anadolu Bölgesi'nde yer alır ve Türkiye'nin en yüksek dağı olan Ağrı Dağı'na ev sahipliği yapar. İshak Paşa Sarayı gibi tarihi yapılarıyla tanınan şehir, zorlu doğa koşullarıyla bilinir. Ayrıca, bu bölge kış sporları için popüler bir destinasyondur.",
+    "location": {
+      "latitude": 39.7190,
+      "longitude": 41.0978
+    }
+  },
+  {
+    "id": 5,
+    "name": "Amasya",
+    "photo": "https://example.com/amasya.jpg",
+    "description": "Amasya, Karadeniz Bölgesi'nde yer alan tarihi bir şehirdir. Yeşilırmak Nehri'nin kıyısındaki evleri, Osmanlı döneminden kalma yapıları ve elmasıyla ünlüdür. Şehir, aynı zamanda şehzadeler şehri olarak da anılır ve tarihi evleriyle dikkat çeker.",
+    "location": {
+      "latitude": 40.6493,
+      "longitude": 35.8320
+    }
+  },
+  {
+    "id": 6,
+    "name": "Ankara",
+    "photo": "https://example.com/ankara.jpg",
+    "description": "Ankara, Türkiye'nin başkenti ve ikinci büyük şehridir. Tarihi zenginlikleri, müzeleri ve modern yapılarıyla dikkat çeker. Anıtkabir ve Türkiye Büyük Millet Meclisi gibi simge yapılar bu şehirde yer alır. Ayrıca şehir, geniş yeşil alanları ve eğitim kurumlarıyla tanınır.",
+    "location": {
+      "latitude": 39.9334,
+      "longitude": 32.8597
+    }
+  },
+  {
+    "id": 7,
+    "name": "Antalya",
+    "photo": "https://example.com/antalya.jpg",
+    "description": "Antalya, Akdeniz Bölgesi'nin en önemli turizm merkezlerinden biridir. Göz alıcı plajları, antik kentleri ve doğal güzellikleriyle ünlüdür. Şehir, aynı zamanda Türkiye'nin turizm başkenti olarak anılır. Antalya, ayrıca tarihi Kaleiçi bölgesi ve Düden Şelalesi ile tanınır.",
+    "location": {
+      "latitude": 36.8841,
+      "longitude": 30.7056
+    }
+  },
+  {
+    "id": 8,
+    "name": "Artvin",
+    "photo": "https://example.com/artvin.jpg",
+    "description": "Artvin, Karadeniz Bölgesi'nde yer alır ve yemyeşil doğasıyla bilinir. Zengin flora ve faunası, yaylaları ve geleneksel festivalleriyle dikkat çeker. Şehir, doğa sporları ve ekoturizm için ideal bir yerdir. Artvin, ayrıca muhteşem vadileri ve köprüleri ile tanınır.",
+    "location": {
+      "latitude": 41.1825,
+      "longitude": 41.8256
+    }
+  },
+  {
+    "id": 9,
+    "name": "Aydın",
+    "photo": "https://example.com/aydin.jpg",
+    "description": "Aydın, Ege Bölgesi'nde yer alır ve tarihi zenginlikleriyle dikkat çeker. Antik kentleri, zeytinlikleri ve incirleriyle ünlüdür. Şehir, aynı zamanda kültürel etkinlikleri ve doğal güzellikleriyle bilinir. Aydın, özellikle Afrodisias ve Milet Antik Kentleri ile bilinir.",
+    "location": {
+      "latitude": 37.8465,
+      "longitude": 27.8483
+    }
+  },
+  {
+    "id": 10,
+    "name": "Balıkesir",
+    "photo": "https://example.com/balikesir.jpg",
+    "description": "Balıkesir, Marmara ve Ege Bölgeleri arasında yer alır. Tarihi yapıları, doğal güzellikleri ve zeytinlikleriyle tanınır. Şehir, hem deniz turizmi hem de kültürel turizm açısından önemli bir merkezdir. Balıkesir ayrıca Ayvalık ve Erdek gibi ünlü tatil beldelerine sahiptir.",
+    "location": {
+      "latitude": 39.6490,
+      "longitude": 27.8820
+    }
+  },
+  {
+    "id": 11,
+    "name": "Bilecik",
+    "photo": "https://example.com/bilecik.jpg",
+    "description": "Bilecik, Marmara Bölgesi'nde yer alır ve Osmanlı İmparatorluğu'nun ilk başkentidir. Şehir, tarihi yapıları, özellikle de Osmanlı dönemine ait kalıntılarıyla bilinir. Ayrıca Bilecik'teki Frig Vadisi ve Bozüyük gibi yerler de ziyaretçilerin ilgisini çeker.",
+    "location": {
+      "latitude": 40.0541,
+      "longitude": 29.9797
+    }
+  },
+  {
+    "id": 12,
+    "name": "Bingöl",
+    "photo": "https://example.com/bingol.jpg",
+    "description": "Bingöl, Doğu Anadolu Bölgesi'nde yer alır ve zengin doğal güzellikleriyle dikkat çeker. Şehir, özellikle Bingöl Dağları ve gölleriyle bilinir. Ayrıca Bingöl, çeşitli yaylaları ve tarihi yerleri ile tanınır.",
+    "location": {
+      "latitude": 40.7978,
+      "longitude": 40.5042
+    }
+  },
+  {
+    "id": 13,
+    "name": "Bitlis",
+    "photo": "https://example.com/bitlis.jpg",
+    "description": "Bitlis, Doğu Anadolu Bölgesi'nde yer alır ve tarihi kalıntılarıyla bilinir. Şehir, Bitlis Kalesi ve Ahlat Selçuklu Mezarlığı gibi önemli yerleri içerir. Ayrıca, Bitlis'in doğal güzellikleri ve kültürel mirası da oldukça zengindir.",
+    "location": {
+      "latitude": 38.5184,
+      "longitude": 42.1094
+    }
+  },
+  {
+    "id": 14,
+    "name": "Bolu",
+    "photo": "https://example.com/bolu.jpg",
+    "description": "Bolu, Karadeniz Bölgesi'nde yer alır ve doğal güzellikleri ile bilinir. Şehir, özellikle Abant Gölü ve Yedigöller Milli Parkı gibi doğal alanlarla tanınır. Ayrıca Bolu'nun geleneksel mutfağı ve tarihi mekanları da dikkat çekicidir.",
+    "location": {
+      "latitude": 40.5735,
+      "longitude": 31.6264
+    }
+  },
+  {
+    "id": 15,
+    "name": "Burdur",
+    "photo": "https://example.com/burdur.jpg",
+    "description": "Burdur, İç Anadolu Bölgesi'nde yer alır ve gölleriyle bilinir. Şehir, özellikle Salda Gölü ve Burdur Gölü gibi doğal güzellikleriyle dikkat çeker. Ayrıca Burdur'un tarihi ve kültürel mirası da oldukça zengindir.",
+    "location": {
+      "latitude": 37.7201,
+      "longitude": 30.2908
+    }
+  },
+  {
+    "id": 16,
+    "name": "Bursa",
+    "photo": "https://example.com/bursa.jpg",
+    "description": "Bursa, Marmara Bölgesi'nde yer alır ve Osmanlı İmparatorluğu'nun ilk başkentidir. Şehir, tarihi yapıları, doğal güzellikleri ve kaplıcalarıyla bilinir. Bursa'nın en ünlü yapılarından biri Ulu Camii'dir. Ayrıca, Uludağ da kış sporları için popüler bir merkezdir.",
+    "location": {
+      "latitude": 40.1826,
+      "longitude": 29.0687
+    }
+  },
+  {
+    "id": 17,
+    "name": "Çanakkale",
+    "photo": "https://example.com/canakkale.jpg",
+    "description": "Çanakkale, Marmara Bölgesi'nde yer alır ve tarihi önem taşıyan bir şehirdir. Troya Antik Kenti ve Gelibolu Yarımadası Tarihi Milli Parkı gibi önemli yerler buradadır. Ayrıca şehir, Çanakkale Şehitler Abidesi ile de tanınır.",
+    "location": {
+      "latitude": 40.1553,
+      "longitude": 26.4142
+    }
+  },
+  {
+    "id": 18,
+    "name": "Çankırı",
+    "photo": "https://example.com/cankiri.jpg",
+    "description": "Çankırı, İç Anadolu Bölgesi'nde yer alır ve tarihi yapılarıyla bilinir. Şehir, tarihi kalıntıları, özellikle de Çankırı Kalesi ve Ilgaz Dağı gibi doğal alanları ile dikkat çeker. Ayrıca Çankırı'nın geleneksel el sanatları ve mutfağı da ünlüdür.",
+    "location": {
+      "latitude": 40.6014,
+      "longitude": 33.6215
+    }
+  },
+  {
+    "id": 19,
+    "name": "Çorum",
+    "photo": "https://example.com/corum.jpg",
+    "description": "Çorum, Karadeniz Bölgesi'nde yer alır ve tarihi zenginlikleriyle bilinir. Şehir, özellikle Hitit kalıntıları ve Alacahöyük gibi önemli arkeolojik alanlarla tanınır. Ayrıca Çorum'un el sanatları ve geleneksel mutfağı da dikkat çekicidir.",
+    "location": {
+      "latitude": 40.5953,
+      "longitude": 34.9550
+    }
+  },
+  {
+    "id": 20,
+    "name": "Denizli",
+    "photo": "https://example.com/denizli.jpg",
+    "description": "Denizli, Ege Bölgesi'nde yer alır ve Pamukkale Travertenleri ile ünlüdür. Şehir, ayrıca tarihi Hierapolis Antik Kenti ile tanınır. Denizli'nin doğal güzellikleri ve tekstil sektöründeki rolü de dikkat çekicidir.",
+    "location": {
+      "latitude": 37.7761,
+      "longitude": 29.0883
+    }
+  },
+  {
+    "id": 21,
+    "name": "Diyarbakır",
+    "photo": "https://example.com/diyarbakir.jpg",
+    "description": "Diyarbakır, Güneydoğu Anadolu Bölgesi'nde yer alır ve tarihi yapılarıyla bilinir. Şehir, özellikle Diyarbakır Surları ve Ulu Camii ile tanınır. Ayrıca Diyarbakır'ın zengin kültürel mirası ve geleneksel mutfağı da dikkat çekicidir.",
+    "location": {
+      "latitude": 37.9101,
+      "longitude": 40.2306
+    }
+  },
+  {
+    "id": 22,
+    "name": "Düzce",
+    "photo": "https://example.com/duzce.jpg",
+    "description": "Düzce, Karadeniz Bölgesi'nde yer alır ve doğal güzellikleriyle bilinir. Şehir, özellikle Akçakoca ve Yığılca gibi turistik bölgeleriyle tanınır. Düzce'nin ormanlık alanları ve gölleri de ziyaretçiler tarafından beğenilmektedir.",
+    "location": {
+      "latitude": 40.8387,
+      "longitude": 31.1568
+    }
+  },
+  {
+    "id": 23,
+    "name": "Edirne",
+    "photo": "https://example.com/edirne.jpg",
+    "description": "Edirne, Marmara Bölgesi'nde yer alır ve tarihi yapılarıyla bilinir. Şehir, özellikle Selimiye Camii ve Edirne Sarayı gibi önemli yerlerle tanınır. Ayrıca Edirne'nin kültürel etkinlikleri ve geleneksel yemekleri de ünlüdür.",
+    "location": {
+      "latitude": 41.6634,
+      "longitude": 26.5512
+    }
+  },
+  {
+    "id": 24,
+    "name": "Elazığ",
+    "photo": "https://example.com/elazig.jpg",
+    "description": "Elazığ, Doğu Anadolu Bölgesi'nde yer alır ve tarihi zenginlikleriyle bilinir. Şehir, özellikle Harput Kalesi ve Keban Barajı ile tanınır. Ayrıca Elazığ'ın doğal güzellikleri ve kültürel mirası da dikkat çekicidir.",
+    "location": {
+      "latitude": 38.6747,
+      "longitude": 39.2237
+    }
+  },
+  {
+    "id": 25,
+    "name": "Erzincan",
+    "photo": "https://example.com/erzincan.jpg",
+    "description": "Erzincan, Doğu Anadolu Bölgesi'nde yer alır ve tarihi kalıntılarıyla bilinir. Şehir, Erzincan Kalesi ve Erzincan'ın doğal güzellikleri ile tanınır. Ayrıca Erzincan'ın kültürel etkinlikleri ve el sanatları da dikkat çekicidir.",
+    "location": {
+      "latitude": 39.7503,
+      "longitude": 39.1209
+    }
+  },
+  {
+    "id": 26,
+    "name": "Erzurum",
+    "photo": "https://example.com/erzurum.jpg",
+    "description": "Erzurum, Doğu Anadolu Bölgesi'nde yer alır ve kış sporlarıyla bilinir. Şehir, özellikle Palandöken Dağı ve Erzurum Kalesi ile tanınır. Ayrıca Erzurum'un tarihi ve kültürel mirası da oldukça zengindir.",
+    "location": {
+      "latitude": 41.2650,
+      "longitude": 41.7710
+    }
+  },
+  {
+    "id": 27,
+    "name": "Eskişehir",
+    "photo": "https://example.com/eskisehir.jpg",
+    "description": "Eskişehir, İç Anadolu Bölgesi'nde yer alır ve modern bir şehir yapısına sahiptir. Şehir, Porsuk Çayı boyunca uzanan yürüyüş yolları, Odunpazarı Evleri ve Eskişehir Balmumu Heykeller Müzesi ile tanınır. Ayrıca şehir, üniversiteleri ve kültürel etkinlikleriyle dikkat çeker.",
+    "location": {
+      "latitude": 39.7766,
+      "longitude": 30.5206
+    }
+  },
+  {
+    "id": 28,
+    "name": "Gaziantep",
+    "photo": "https://example.com/gaziantep.jpg",
+    "description": "Gaziantep, Güneydoğu Anadolu Bölgesi'nde yer alır ve mutfağıyla ünlüdür. Şehir, özellikle baklava ve Antep fıstığı ile tanınır. Ayrıca Gaziantep, tarihi mekânları ve müzeleri ile de dikkat çeker.",
+    "location": {
+      "latitude": 37.0662,
+      "longitude": 37.3833
+    }
+  },
+  {
+    "id": 29,
+    "name": "Giresun",
+    "photo": "https://example.com/giresun.jpg",
+    "description": "Giresun, Karadeniz Bölgesi'nde yer alır ve doğal güzellikleriyle bilinir. Şehir, özellikle Giresun Adası ve Giresun Kalesi ile tanınır. Ayrıca Giresun'un çay tarlaları ve ormanlık alanları da dikkat çekicidir.",
+    "location": {
+      "latitude": 40.9123,
+      "longitude": 38.3881
+    }
+  },
+  {
+    "id": 30,
+    "name": "Gümüşhane",
+    "photo": "https://example.com/gumushane.jpg",
+    "description": "Gümüşhane, Karadeniz Bölgesi'nde yer alır ve doğal güzellikleriyle bilinir. Şehir, özellikle Karaca Mağarası ve Zigana Geçidi ile tanınır. Ayrıca Gümüşhane'nin tarihi ve kültürel mirası da zengindir.",
+    "location": {
+      "latitude": 40.4585,
+      "longitude": 39.4634
+    }
+  },
+  {
+    "id": 31,
+    "name": "Hakkari",
+    "photo": "https://example.com/hakkari.jpg",
+    "description": "Hakkari, Doğu Anadolu Bölgesi'nde yer alır ve dağlık yapısıyla bilinir. Şehir, özellikle Mount Cilo ve Hakkari'nin doğal güzellikleri ile tanınır. Ayrıca Hakkari'nin kültürel mirası da oldukça zengindir.",
+    "location": {
+      "latitude": 37.5735,
+      "longitude": 43.0890
+    }
+  },
+  {
+    "id": 32,
+    "name": "Hatay",
+    "photo": "https://example.com/hatay.jpg",
+    "description": "Hatay, Akdeniz Bölgesi'nde yer alır ve zengin mutfağıyla bilinir. Şehir, özellikle Antakya'nın tarihi ve mutfağı ile tanınır. Ayrıca Hatay'ın doğal güzellikleri ve tarihi kalıntıları da dikkat çekicidir.",
+    "location": {
+      "latitude": 36.2021,
+      "longitude": 36.1674
+    }
+  },
+  {
+    "id": 33,
+    "name": "Iğdır",
+    "photo": "https://example.com/igdir.jpg",
+    "description": "Iğdır, Doğu Anadolu Bölgesi'nde yer alır ve tarımsal ürünleriyle bilinir. Şehir, özellikle Iğdır Ovası ile tanınır. Ayrıca Iğdır'ın doğal güzellikleri ve kültürel mirası da dikkat çekicidir.",
+    "location": {
+      "latitude": 40.3816,
+      "longitude": 44.0682
+    }
+  },
+  {
+    "id": 34,
+    "name": "Isparta",
+    "photo": "https://example.com/isparta.jpg",
+    "description": "Isparta, İç Anadolu Bölgesi'nde yer alır ve gül yetiştiriciliği ile bilinir. Şehir, özellikle Isparta Gülleri ile tanınır. Ayrıca Isparta'nın doğal güzellikleri ve tarihi alanları da dikkat çekicidir.",
+    "location": {
+      "latitude": 37.7645,
+      "longitude": 30.5561
+    }
+  },
+  {
+    "id": 35,
+    "name": "İstanbul",
+    "photo": "https://example.com/istanbul.jpg",
+    "description": "İstanbul, Marmara Bölgesi'nde yer alır ve Türkiye'nin en büyük şehridir. Şehir, tarihi ve kültürel zenginlikleri ile bilinir. Özellikle Topkapı Sarayı, Ayasofya ve Sultanahmet Camii gibi önemli yapılar burada bulunur.",
+    "location": {
+      "latitude": 41.0082,
+      "longitude": 28.9784
+    }
+  },
+  {
+    "id": 36,
+    "name": "İzmir",
+    "photo": "https://example.com/izmir.jpg",
+    "description": "İzmir, Ege Bölgesi'nde yer alır ve Türkiye'nin üçüncü büyük şehridir. Şehir, özellikle tarihi Kemeraltı Çarşısı ve Efes Antik Kenti ile bilinir. Ayrıca İzmir'in deniz kıyısındaki konumu da oldukça güzeldir.",
+    "location": {
+      "latitude": 38.4192,
+      "longitude": 27.1287
+    }
+  },
+  {
+    "id": 37,
+    "name": "Kahramanmaraş",
+    "photo": "https://example.com/kahramanmaras.jpg",
+    "description": "Kahramanmaraş, Kahramanmaraş dondurması ile ünlüdür. Ayrıca şehir, tarihi kalıntıları ve doğal güzellikleri ile dikkat çeker.",
+    "location": {
+      "latitude": 37.5736,
+      "longitude": 36.9374
+    }
+  },
+  {
+    "id": 38,
+    "name": "Karabük",
+    "photo": "https://example.com/karabuk.jpg",
+    "description": "Karabük, Karadeniz Bölgesi'nde yer alır ve Safranbolu'nun tarihi evleri ile ünlüdür. Ayrıca şehir, doğal güzellikleriyle de tanınır.",
+    "location": {
+      "latitude": 41.2087,
+      "longitude": 32.6260
+    }
+  },
+  {
+    "id": 39,
+    "name": "Karaman",
+    "photo": "https://example.com/karaman.jpg",
+    "description": "Karaman, İç Anadolu Bölgesi'nde yer alır ve tarihi yapılarıyla bilinir. Şehir, özellikle Karaman Kalesi ve tarihi camileri ile tanınır.",
+    "location": {
+      "latitude": 37.1753,
+      "longitude": 33.2170
+    }
+  },
+  {
+    "id": 40,
+    "name": "Kars",
+    "photo": "https://example.com/kars.jpg",
+    "description": "Kars, Doğu Anadolu Bölgesi'nde yer alır ve tarihi yapılarıyla bilinir. Şehir, özellikle Ani Harabeleri ve Kars Kalesi ile tanınır.",
+    "location": {
+      "latitude": 40.6056,
+      "longitude": 43.0731
+    }
+  },
+  {
+    "id": 41,
+    "name": "Kastamonu",
+    "photo": "https://example.com/kastamonu.jpg",
+    "description": "Kastamonu, Karadeniz Bölgesi'nde yer alır ve doğal güzellikleri ile bilinir. Şehir, özellikle Kastamonu Kalesi ve doğal alanları ile tanınır.",
+    "location": {
+      "latitude": 41.3880,
+      "longitude": 33.7417
+    }
+  },
+  {
+    "id": 42,
+    "name": "Ordu",
+    "photo": "https://example.com/ordu.jpg",
+    "description": "Ordu, Karadeniz Bölgesi'nde yer alır ve doğal güzellikleri ile bilinir. Şehir, özellikle Ordu'nun plajları ve fındık bahçeleri ile tanınır.",
+    "location": {
+      "latitude": 40.9876,
+      "longitude": 37.8828
+    }
+  },
+  {
+    "id": 43,
+    "name": "Osmaniye",
+    "photo": "https://example.com/osmaniye.jpg",
+    "description": "Osmaniye, Akdeniz Bölgesi'nde yer alır ve doğal güzellikleri ile bilinir. Şehir, özellikle Kadirli ve Düziçi gibi bölgeleri ile tanınır.",
+    "location": {
+      "latitude": 37.0748,
+      "longitude": 36.2485
+    }
+  },
+  {
+    "id": 44,
+    "name": "Rize",
+    "photo": "https://example.com/rize.jpg",
+    "description": "Rize, Karadeniz Bölgesi'nde yer alır ve çay üretimi ile bilinir. Şehir, özellikle Rize Kalesi ve çay bahçeleri ile tanınır.",
+    "location": {
+      "latitude": 41.0202,
+      "longitude": 40.5237
+    }
+  },
+  {
+    "id": 45,
+    "name": "Sakarya",
+    "photo": "https://example.com/sakarya.jpg",
+    "description": "Sakarya, Marmara Bölgesi'nde yer alır ve doğal güzellikleri ile bilinir. Şehir, özellikle Sapanca Gölü ve doğal alanları ile tanınır.",
+    "location": {
+      "latitude": 40.7669,
+      "longitude": 30.4188
+    }
+  },
+  {
+    "id": 46,
+    "name": "Samsun",
+    "photo": "https://example.com/samsun.jpg",
+    "description": "Samsun, Karadeniz Bölgesi'nde yer alır ve limanı ile bilinir. Şehir, ayrıca Bandırma Vapuru ve Atatürk Parkı ile tanınır.",
+    "location": {
+      "latitude": 41.2867,
+      "longitude": 36.33
+    }
+  },
+  {
+    "id": 47,
+    "name": "Siirt",
+    "photo": "https://example.com/siirt.jpg",
+    "description": "Siirt, Güneydoğu Anadolu Bölgesi'nde yer alır ve tarihi yapıları ile bilinir. Şehir, özellikle Siirt Kalesi ve tarihi camileri ile tanınır.",
+    "location": {
+      "latitude": 37.9522,
+      "longitude": 41.9328
+    }
+  },
+  {
+    "id": 48,
+    "name": "Sinop",
+    "photo": "https://example.com/sinop.jpg",
+    "description": "Sinop, Karadeniz Bölgesi'nde yer alır ve tarihi limanı ile bilinir. Şehir, özellikle Sinop Kalesi ve tarihi yapıları ile tanınır.",
+    "location": {
+      "latitude": 42.0094,
+      "longitude": 35.1544
+    }
+  },
+  {
+    "id": 49,
+    "name": "Şanlıurfa",
+    "photo": "https://example.com/sanliurfa.jpg",
+    "description": "Şanlıurfa, Güneydoğu Anadolu Bölgesi'nde yer alır ve tarihi mekanları ile bilinir. Şehir, özellikle Göbekli Tepe ve Harran ile tanınır.",
+    "location": {
+      "latitude": 37.1745,
+      "longitude": 38.7969
+    }
+  },
+  {
+    "id": 50,
+    "name": "Tokat",
+    "photo": "https://example.com/tokat.jpg",
+    "description": "Tokat, Karadeniz Bölgesi'nde yer alır ve tarihi yapıları ile bilinir. Şehir, özellikle Tokat Kalesi ve tarihi camileri ile tanınır.",
+    "location": {
+      "latitude": 40.3187,
+      "longitude": 36.5547
+    }
+  },
+  {
+    "id": 51,
+    "name": "Trabzon",
+    "photo": "https://example.com/trabzon.jpg",
+    "description": "Trabzon, Karadeniz Bölgesi'nde yer alır ve doğal güzellikleri ile bilinir. Şehir, özellikle Uzungöl ve Sümela Manastırı ile tanınır. Ayrıca Trabzon'un tarihi yapıları ve kültürel mirası da oldukça zengindir.",
+    "location": {
+      "latitude": 41.0053,
+      "longitude": 39.7178
+    }
+  },
+  {
+    "id": 52,
+    "name": "Tunceli",
+    "photo": "https://example.com/tunceli.jpg",
+    "description": "Tunceli, Doğu Anadolu Bölgesi'nde yer alır ve doğal güzellikleri ile bilinir. Şehir, özellikle Munzur Dağları ve Munzur Vadisi Milli Parkı ile tanınır. Ayrıca Tunceli'nin zengin kültürel mirası da dikkat çeker.",
+    "location": {
+      "latitude": 39.0987,
+      "longitude": 39.5451
+    }
+  },
+  {
+    "id": 53,
+    "name": "Şırnak",
+    "photo": "https://example.com/sirnak.jpg",
+    "description": "Şırnak, Güneydoğu Anadolu Bölgesi'nde yer alır ve dağlık yapısıyla bilinir. Şehir, özellikle Cudi Dağı ve Uludere gibi doğal güzellikleri ile tanınır.",
+    "location": {
+      "latitude": 37.4184,
+      "longitude": 42.0172
+    }
+  },
+  {
+    "id": 54,
+    "name": "Yalova",
+    "photo": "https://example.com/yalova.jpg",
+    "description": "Yalova, Marmara Bölgesi'nde yer alır ve deniz kıyısındaki konumu ile bilinir. Şehir, özellikle termal kaplıcaları ve doğal güzellikleri ile tanınır.",
+    "location": {
+      "latitude": 40.6563,
+      "longitude": 29.2786
+    }
+  },
+  {
+    "id": 55,
+    "name": "Yozgat",
+    "photo": "https://example.com/yozgat.jpg",
+    "description": "Yozgat, İç Anadolu Bölgesi'nde yer alır ve tarihi yapıları ile bilinir. Şehir, özellikle Yozgat Çamlığı Milli Parkı ve tarihi yapıları ile tanınır.",
+    "location": {
+      "latitude": 39.8187,
+      "longitude": 34.8118
+    }
+  },
+  {
+    "id": 56,
+    "name": "Zonguldak",
+    "photo": "https://example.com/zonguldak.jpg",
+    "description": "Zonguldak, Karadeniz Bölgesi'nde yer alır ve liman şehri olarak bilinir. Şehir, özellikle Ereğli ve Kozlu bölgeleri ile tanınır. Ayrıca Zonguldak'ın doğal güzellikleri ve tarihi yapıları da dikkat çeker.",
+    "location": {
+      "latitude": 41.4565,
+      "longitude": 31.7987
+    }
+  },
+  {
+    "id": 57,
+    "name": "Aksaray",
+    "photo": "https://example.com/aksaray.jpg",
+    "description": "Aksaray, İç Anadolu Bölgesi'nde yer alır ve tarihi yapıları ile bilinir. Şehir, özellikle Sultanhanı Kervansarayı ve Aksaray Müzesi ile tanınır.",
+    "location": {
+      "latitude": 38.3684,
+      "longitude": 34.0207
+    }
+  },
+  {
+    "id": 58,
+    "name": "Bayburt",
+    "photo": "https://example.com/bayburt.jpg",
+    "description": "Bayburt, Karadeniz Bölgesi'nde yer alır ve tarihi yapıları ile bilinir. Şehir, özellikle Bayburt Kalesi ve Tarihi Bayburt Evleri ile tanınır.",
+    "location": {
+      "latitude": 40.2483,
+      "longitude": 40.2236
+    }
+  },
+  {
+    "id": 59,
+    "name": "Bingöl",
+    "photo": "https://example.com/bingol.jpg",
+    "description": "Bingöl, Doğu Anadolu Bölgesi'nde yer alır ve doğal güzellikleri ile bilinir. Şehir, özellikle Bingöl Dağları ve Yüzen Ada ile tanınır.",
+    "location": {
+      "latitude": 39.0631,
+      "longitude": 40.4880
+    }
+  },
+  {
+    "id": 60,
+    "name": "Bitlis",
+    "photo": "https://example.com/bitlis.jpg",
+    "description": "Bitlis, Doğu Anadolu Bölgesi'nde yer alır ve tarihi yapıları ile bilinir. Şehir, özellikle Bitlis Kalesi ve Nemrut Krater Gölü ile tanınır.",
+    "location": {
+      "latitude": 38.4004,
+      "longitude": 42.1101
+    }
+  },
+  {
+    "id": 61,
+    "name": "Bolu",
+    "photo": "https://example.com/bolu.jpg",
+    "description": "Bolu, Karadeniz Bölgesi'nde yer alır ve doğal güzellikleri ile bilinir. Şehir, özellikle Abant Gölü ve Yedigöller Milli Parkı ile tanınır.",
+    "location": {
+      "latitude": 40.5678,
+      "longitude": 31.6265
+    }
+  },
+  {
+    "id": 62,
+    "name": "Burdur",
+    "photo": "https://example.com/burdur.jpg",
+    "description": "Burdur, Akdeniz Bölgesi'nde yer alır ve doğal güzellikleri ile bilinir. Şehir, özellikle Salda Gölü ve Burdur Müzesi ile tanınır.",
+    "location": {
+      "latitude": 37.4725,
+      "longitude": 30.0666
+    }
+  },
+  {
+    "id": 63,
+    "name": "Bursa",
+    "photo": "https://example.com/bursa.jpg",
+    "description": "Bursa, Marmara Bölgesi'nde yer alır ve tarihi yapıları ile bilinir. Şehir, özellikle Uludağ ve Cumalıkızık Köyü ile tanınır.",
+    "location": {
+      "latitude": 40.1927,
+      "longitude": 29.0840
+    }
+  },
+  {
+    "id": 64,
+    "name": "Çorum",
+    "photo": "https://example.com/corum.jpg",
+    "description": "Çorum, Karadeniz Bölgesi'nde yer alır ve tarihi yapıları ile bilinir. Şehir, özellikle Hattuşaş Antik Kenti ve Çorum Müzesi ile tanınır.",
+    "location": {
+      "latitude": 40.5933,
+      "longitude": 34.9553
+    }
+  },
+  {
+    "id": 65,
+    "name": "Denizli",
+    "photo": "https://example.com/denizli.jpg",
+    "description": "Denizli, Ege Bölgesi'nde yer alır ve doğal güzellikleri ile bilinir. Şehir, özellikle Pamukkale Travertenleri ve Hierapolis Antik Kenti ile tanınır.",
+    "location": {
+      "latitude": 37.7730,
+      "longitude": 29.0897
+    }
+  },
+  {
+    "id": 66,
+    "name": "Diyarbakır",
+    "photo": "https://example.com/diyarbakir.jpg",
+    "description": "Diyarbakır, Güneydoğu Anadolu Bölgesi'nde yer alır ve tarihi yapıları ile bilinir. Şehir, özellikle Diyarbakır Surları ve Ulu Camii ile tanınır.",
+    "location": {
+      "latitude": 37.9104,
+      "longitude": 40.2177
+    }
+  },
+  {
+    "id": 67,
+    "name": "Düzce",
+    "photo": "https://example.com/duzce.jpg",
+    "description": "Düzce, Marmara Bölgesi'nde yer alır ve doğal güzellikleri ile bilinir. Şehir, özellikle Akçakoca ve Güzeldere Şelalesi ile tanınır.",
+    "location": {
+      "latitude": 40.8402,
+      "longitude": 31.1564
+    }
+  },
+  {
+    "id": 68,
+    "name": "Elazığ",
+    "photo": "https://example.com/elazig.jpg",
+    "description": "Elazığ, Doğu Anadolu Bölgesi'nde yer alır ve doğal güzellikleri ile bilinir. Şehir, özellikle Harput Kalesi ve Keban Barajı ile tanınır.",
+    "location": {
+      "latitude": 38.6788,
+      "longitude": 39.2265
+    }
+  },
+  {
+    "id": 69,
+    "name": "Erzincan",
+    "photo": "https://example.com/erzincan.jpg",
+    "description": "Erzincan, Doğu Anadolu Bölgesi'nde yer alır ve doğal güzellikleri ile bilinir. Şehir, özellikle Erzincan Kalesi ve Munzur Dağları ile tanınır.",
+    "location": {
+      "latitude": 39.7500,
+      "longitude": 39.5000
+    }
+  },
+  {
+    "id": 70,
+    "name": "Erzurum",
+    "photo": "https://example.com/erzurum.jpg",
+    "description": "Erzurum, Doğu Anadolu Bölgesi'nde yer alır ve tarihi yapıları ile bilinir. Şehir, özellikle Erzurum Kalesi ve Palandöken Dağı ile tanınır.",
+    "location": {
+      "latitude": 40.6350,
+      "longitude": 41.2700
+    }
+  },
+  {
+    "id": 71,
+    "name": "Giresun",
+    "photo": "https://example.com/giresun.jpg",
+    "description": "Giresun, Karadeniz Bölgesi'nde yer alır ve doğal güzellikleri ile bilinir. Şehir, özellikle Giresun Adası ve Giresun Kalesi ile tanınır.",
+    "location": {
+      "latitude": 40.9122,
+      "longitude": 38.4064
+    }
+  },
+  {
+    "id": 72,
+    "name": "Gümüşhane",
+    "photo": "https://example.com/gumushane.jpg",
+    "description": "Gümüşhane, Karadeniz Bölgesi'nde yer alır ve tarihi yapıları ile bilinir. Şehir, özellikle Gümüşhane Kalesi ve Zigana Geçidi ile tanınır.",
+    "location": {
+      "latitude": 40.4689,
+      "longitude": 39.5008
+    }
+  },
+  {
+    "id": 73,
+    "name": "Hakkari",
+    "photo": "https://example.com/hakkari.jpg",
+    "description": "Hakkari, Doğu Anadolu Bölgesi'nde yer alır ve dağlık yapısıyla bilinir. Şehir, özellikle Cilo Dağları ve Yüksekova ile tanınır.",
+    "location": {
+      "latitude": 37.5661,
+      "longitude": 43.1057
+    }
+  },
+  {
+    "id": 74,
+    "name": "Hatay",
+    "photo": "https://example.com/hatay.jpg",
+    "description": "Hatay, Akdeniz Bölgesi'nde yer alır ve tarihi zenginlikleri ile bilinir. Şehir, özellikle Antakya ve Titus Tüneli ile tanınır.",
+    "location": {
+      "latitude": 36.2021,
+      "longitude": 36.1666
+    }
+  },
+  {
+    "id": 75,
+    "name": "Iğdır",
+    "photo": "https://example.com/igdir.jpg",
+    "description": "Iğdır, Doğu Anadolu Bölgesi'nde yer alır ve doğal güzellikleri ile bilinir. Şehir, özellikle Iğdır Ovası ve Ağrı Dağı ile tanınır.",
+    "location": {
+      "latitude": 40.3705,
+      "longitude": 43.2808
+    }
+  },
+  {
+    "id": 78,
+    "name": "Kahramanmaraş",
+    "photo": "https://example.com/kahramanmaras.jpg",
+    "description": "Kahramanmaraş, Güneydoğu Anadolu Bölgesi'nde yer alır ve tarihi yapıları ile bilinir. Şehir, özellikle Maraş Dondurması ve Kahramanmaraş Kalesi ile tanınır.",
+    "location": {
+      "latitude": 37.5734,
+      "longitude": 36.9371
+    }
+  },
+  {
+    "id": 79,
+    "name": "Karabük",
+    "photo": "https://example.com/karabuk.jpg",
+    "description": "Karabük, Karadeniz Bölgesi'nde yer alır ve sanayi şehri olarak bilinir. Şehir, özellikle Safranbolu Evleri ve Karabük Demir Çelik Fabrikası ile tanınır.",
+    "location": {
+      "latitude": 41.2008,
+      "longitude": 32.6263
+    }
+  },
+  {
+    "id": 80,
+    "name": "Karaman",
+    "photo": "https://example.com/karaman.jpg",
+    "description": "Karaman, İç Anadolu Bölgesi'nde yer alır ve tarihi yapıları ile bilinir. Şehir, özellikle Karaman Kalesi ve Mevlana Camii ile tanınır.",
+    "location": {
+      "latitude": 37.1755,
+      "longitude": 33.2250
+    }
+  },
+  {
+    "id": 81,
+    "name": "Kırıkkale",
+    "photo": "https://example.com/kirikkale.jpg",
+    "description": "Kırıkkale, İç Anadolu Bölgesi'nde yer alır ve sanayi şehri olarak bilinir. Şehir, özellikle Kırıkkale Kalesi ve tarihi yapıları ile tanınır.",
+    "location": {
+      "latitude": 39.8494,
+      "longitude": 33.2818
+    }
+  }
+]
+
